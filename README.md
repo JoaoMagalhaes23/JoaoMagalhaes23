@@ -6,6 +6,7 @@ Litte resume about myself:
 - Completed the undergraduate degree in computer science with final grade of 15
 - Currently in the process of entering to a major in computer science
 - Working on some personal projects
+
 Personal interests:
 - Kotlin is my current favourite programming language
 - Bigger interest in the frontend
