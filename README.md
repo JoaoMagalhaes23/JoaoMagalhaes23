@@ -4,13 +4,13 @@
 
 Litte resume about myself:
 - Completed the undergraduate degree in computer science with final grade of 15
-- Currently in the process of entering to a major in computer science
+- I have completed the first year of my major in Computer Science.
 - Working on some personal projects
 
 Personal interests:
+- Im using EndeavourOS
 - Kotlin is my current favourite programming language
-- Bigger interest in the frontend
-- My favourite book author is José Saramago
+- Bigger interest in the compilers and low level programming
 - My favourite book is The Count of Monte Cristo
 
 <hr />
